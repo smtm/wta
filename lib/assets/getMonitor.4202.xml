@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?><ns2:DatenAbrufenAntwort xmlns:ns2="vdv453ger"><AZBNachricht AboID="createcamp2"><AZBFahrplanlage Zst="2013-01-13T16:41:10"><AbfahrtszeitAZBPlan>2013-01-13T16:43:00</AbfahrtszeitAZBPlan><AbfahrtszeitAZBPrognose>2013-01-13T16:43:00</AbfahrtszeitAZBPrognose><AZBID>104202</AZBID><FahrtStatus>IST</FahrtStatus><HaltId>2</HaltId><LinienID>302</LinienID><LinienText>U2</LinienText><RichtungsText>ASPERNSTRASSE</RichtungsText></AZBFahrplanlage><AZBFahrplanlage Zst="2013-01-13T16:41:10"><AbfahrtszeitAZBPlan>2013-01-13T16:49:00</AbfahrtszeitAZBPlan><AbfahrtszeitAZBPrognose>2013-01-13T16:49:00</AbfahrtszeitAZBPrognose><AZBID>104202</AZBID><FahrtStatus>IST</FahrtStatus><HaltId>2</HaltId><LinienID>302</LinienID><LinienText>U2</LinienText><RichtungsText>ASPERNSTRASSE</RichtungsText></AZBFahrplanlage></AZBNachricht><Bestaetigung Zst="2013-01-13T16:41:28" Ergebnis="ok"/></ns2:DatenAbrufenAntwort>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:DatenAbrufenAntwort xmlns:ns2="vdv453ger">
+  <AZBNachricht AboID="createcamp2">
+    <AZBFahrplanlage Zst="2013-01-13T16:43:24">
+      <AbfahrtszeitAZBPlan>2013-01-13T16:45:24</AbfahrtszeitAZBPlan>
+      <AbfahrtszeitAZBPrognose>2013-01-13T16:45:24</AbfahrtszeitAZBPrognose>
+      <AZBID>104202</AZBID>
+      <FahrtStatus>IST</FahrtStatus>
+      <HaltId>2</HaltId>
+      <LinienID>302</LinienID>
+      <LinienText>U2</LinienText>
+      <RichtungsText>ASPERNSTRASSE</RichtungsText>
+    </AZBFahrplanlage>
+    <AZBFahrplanlage Zst="2013-01-13T16:43:24">
+      <AbfahrtszeitAZBPlan>2013-01-13T16:50:24</AbfahrtszeitAZBPlan>
+      <AbfahrtszeitAZBPrognose>2013-01-13T16:50:24</AbfahrtszeitAZBPrognose>
+      <AZBID>104202</AZBID>
+      <FahrtStatus>IST</FahrtStatus>
+      <HaltId>2</HaltId>
+      <LinienID>302</LinienID>
+      <LinienText>U2</LinienText>
+      <RichtungsText>ASPERNSTRASSE</RichtungsText>
+    </AZBFahrplanlage>
+  </AZBNachricht>
+  <Bestaetigung Zst="2013-01-13T16:43:55" Ergebnis="ok"/>
+</ns2:DatenAbrufenAntwort>

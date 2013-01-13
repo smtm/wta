@@ -1,1 +1,184 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?><ns2:DatenAbrufenAntwort xmlns:ns2="vdv453ger"><AZBNachricht AboID="createcamp2"><AZBFahrplanlage Zst="2013-01-13T16:41:04"><AbfahrtszeitAZBPlan>2013-01-13T16:46:30</AbfahrtszeitAZBPlan><AbfahrtszeitAZBPrognose>2013-01-13T16:48:29</AbfahrtszeitAZBPrognose><AnkunftszeitAZBPlan>2013-01-13T16:46:30</AnkunftszeitAZBPlan><AnkunftszeitAZBPrognose>2013-01-13T16:48:29</AnkunftszeitAZBPrognose><AZBID>100848</AZBID><FahrtID><Betriebstag>2013-01-13</Betriebstag><FahrtBezeichner>130113-10695162</FahrtBezeichner></FahrtID><FahrtStatus>Ist</FahrtStatus><HstSeqZaehler>10</HstSeqZaehler><LinienID>118</LinienID><LinienText>18</LinienText><RichtungsText>Burggasse, Stadthalle U</RichtungsText><Stauindikator>false</Stauindikator><ZielHst>Finsterbuschstraße, Gast</ZielHst></AZBFahrplanlage><AZBFahrplanlage Zst="2013-01-13T16:41:04"><AbfahrtszeitAZBPlan>2013-01-13T16:54:00</AbfahrtszeitAZBPlan><AbfahrtszeitAZBPrognose>2013-01-13T16:54:00</AbfahrtszeitAZBPrognose><AnkunftszeitAZBPlan>2013-01-13T16:54:00</AnkunftszeitAZBPlan><AnkunftszeitAZBPrognose>2013-01-13T16:54:00</AnkunftszeitAZBPrognose><AZBID>100848</AZBID><FahrtID><Betriebstag>2013-01-13</Betriebstag><FahrtBezeichner>130113-10695157</FahrtBezeichner></FahrtID><FahrtInfo><FahrzeugID>703</FahrzeugID><ServiceMerkmal>geeignet für mobilitätseingeschränkte Fahrgäste</ServiceMerkmal></FahrtInfo><FahrtStatus>Ist</FahrtStatus><HstSeqZaehler>10</HstSeqZaehler><LinienID>118</LinienID><LinienText>18</LinienText><RichtungsText>Burggasse, Stadthalle U</RichtungsText><Stauindikator>false</Stauindikator><ZielHst>Finsterbuschstraße, Gast</ZielHst></AZBFahrplanlage><AZBFahrplanlage Zst="2013-01-13T16:41:04"><AbfahrtszeitAZBPlan>2013-01-13T17:01:30</AbfahrtszeitAZBPlan><AbfahrtszeitAZBPrognose>2013-01-13T17:01:30</AbfahrtszeitAZBPrognose><AnkunftszeitAZBPlan>2013-01-13T17:01:30</AnkunftszeitAZBPlan><AnkunftszeitAZBPrognose>2013-01-13T17:01:30</AnkunftszeitAZBPrognose><AZBID>100848</AZBID><FahrtID><Betriebstag>2013-01-13</Betriebstag><FahrtBezeichner>130113-10695154</FahrtBezeichner></FahrtID><FahrtStatus>Ist</FahrtStatus><HstSeqZaehler>10</HstSeqZaehler><LinienID>118</LinienID><LinienText>18</LinienText><RichtungsText>Burggasse, Stadthalle U</RichtungsText><Stauindikator>false</Stauindikator><ZielHst>Finsterbuschstraße, Gast</ZielHst></AZBFahrplanlage><AZBFahrplanlage Zst="2013-01-13T16:41:04"><AbfahrtszeitAZBPlan>2013-01-13T17:09:00</AbfahrtszeitAZBPlan><AbfahrtszeitAZBPrognose>2013-01-13T17:09:00</AbfahrtszeitAZBPrognose><AnkunftszeitAZBPlan>2013-01-13T17:09:00</AnkunftszeitAZBPlan><AnkunftszeitAZBPrognose>2013-01-13T17:09:00</AnkunftszeitAZBPrognose><AZBID>100848</AZBID><FahrtID><Betriebstag>2013-01-13</Betriebstag><FahrtBezeichner>130113-10695150</FahrtBezeichner></FahrtID><FahrtInfo><FahrzeugID>620</FahrzeugID><ServiceMerkmal>geeignet für mobilitätseingeschränkte Fahrgäste</ServiceMerkmal></FahrtInfo><FahrtStatus>Ist</FahrtStatus><HstSeqZaehler>10</HstSeqZaehler><LinienID>118</LinienID><LinienText>18</LinienText><RichtungsText>Burggasse, Stadthalle U</RichtungsText><Stauindikator>false</Stauindikator><ZielHst>Finsterbuschstraße, Gast</ZielHst></AZBFahrplanlage><AZBFahrplanlage Zst="2013-01-13T16:41:04"><AbfahrtszeitAZBPlan>2013-01-13T17:16:30</AbfahrtszeitAZBPlan><AbfahrtszeitAZBPrognose>2013-01-13T17:16:30</AbfahrtszeitAZBPrognose><AnkunftszeitAZBPlan>2013-01-13T17:16:30</AnkunftszeitAZBPlan><AnkunftszeitAZBPrognose>2013-01-13T17:16:30</AnkunftszeitAZBPrognose><AZBID>100848</AZBID><FahrtID><Betriebstag>2013-01-13</Betriebstag><FahrtBezeichner>130113-10695147</FahrtBezeichner></FahrtID><FahrtStatus>Ist</FahrtStatus><HstSeqZaehler>10</HstSeqZaehler><LinienID>118</LinienID><LinienText>18</LinienText><RichtungsText>Burggasse, Stadthalle U</RichtungsText><Stauindikator>false</Stauindikator><ZielHst>Finsterbuschstraße, Gast</ZielHst></AZBFahrplanlage><AZBFahrplanlage Zst="2013-01-13T16:41:04"><AbfahrtszeitAZBPlan>2013-01-13T17:24:00</AbfahrtszeitAZBPlan><AbfahrtszeitAZBPrognose>2013-01-13T17:24:00</AbfahrtszeitAZBPrognose><AnkunftszeitAZBPlan>2013-01-13T17:24:00</AnkunftszeitAZBPlan><AnkunftszeitAZBPrognose>2013-01-13T17:24:00</AnkunftszeitAZBPrognose><AZBID>100848</AZBID><FahrtID><Betriebstag>2013-01-13</Betriebstag><FahrtBezeichner>130113-10695139</FahrtBezeichner></FahrtID><FahrtStatus>Ist</FahrtStatus><HstSeqZaehler>10</HstSeqZaehler><LinienID>118</LinienID><LinienText>18</LinienText><RichtungsText>Burggasse, Stadthalle U</RichtungsText><Stauindikator>false</Stauindikator><ZielHst>Finsterbuschstraße, Gast</ZielHst></AZBFahrplanlage><AZBFahrplanlage Zst="2013-01-13T16:41:04"><AbfahrtszeitAZBPlan>2013-01-13T17:31:30</AbfahrtszeitAZBPlan><AbfahrtszeitAZBPrognose>2013-01-13T17:31:30</AbfahrtszeitAZBPrognose><AnkunftszeitAZBPlan>2013-01-13T17:31:30</AnkunftszeitAZBPlan><AnkunftszeitAZBPrognose>2013-01-13T17:31:30</AnkunftszeitAZBPrognose><AZBID>100848</AZBID><FahrtID><Betriebstag>2013-01-13</Betriebstag><FahrtBezeichner>130113-10695137</FahrtBezeichner></FahrtID><FahrtInfo><FahrzeugID>704</FahrzeugID><ServiceMerkmal>geeignet für mobilitätseingeschränkte Fahrgäste</ServiceMerkmal></FahrtInfo><FahrtStatus>Ist</FahrtStatus><HstSeqZaehler>10</HstSeqZaehler><LinienID>118</LinienID><LinienText>18</LinienText><RichtungsText>Burggasse, Stadthalle U</RichtungsText><Stauindikator>false</Stauindikator><ZielHst>Finsterbuschstraße, Gast</ZielHst></AZBFahrplanlage><AZBFahrplanlage Zst="2013-01-13T16:41:04"><AbfahrtszeitAZBPlan>2013-01-13T17:39:00</AbfahrtszeitAZBPlan><AbfahrtszeitAZBPrognose>2013-01-13T17:39:00</AbfahrtszeitAZBPrognose><AnkunftszeitAZBPlan>2013-01-13T17:39:00</AnkunftszeitAZBPlan><AnkunftszeitAZBPrognose>2013-01-13T17:39:00</AnkunftszeitAZBPrognose><AZBID>100848</AZBID><FahrtID><Betriebstag>2013-01-13</Betriebstag><FahrtBezeichner>130113-10695134</FahrtBezeichner></FahrtID><FahrtStatus>Soll</FahrtStatus><HstSeqZaehler>10</HstSeqZaehler><LinienID>118</LinienID><LinienText>18</LinienText><RichtungsText>Burggasse, Stadthalle U</RichtungsText><Stauindikator>false</Stauindikator><ZielHst>Finsterbuschstraße, Gast</ZielHst></AZBFahrplanlage><AZBFahrplanlage Zst="2013-01-13T16:41:04"><AbfahrtszeitAZBPlan>2013-01-13T17:46:30</AbfahrtszeitAZBPlan><AbfahrtszeitAZBPrognose>2013-01-13T17:46:30</AbfahrtszeitAZBPrognose><AnkunftszeitAZBPlan>2013-01-13T17:46:30</AnkunftszeitAZBPlan><AnkunftszeitAZBPrognose>2013-01-13T17:46:30</AnkunftszeitAZBPrognose><AZBID>100848</AZBID><FahrtID><Betriebstag>2013-01-13</Betriebstag><FahrtBezeichner>130113-10695130</FahrtBezeichner></FahrtID><FahrtStatus>Soll</FahrtStatus><HstSeqZaehler>10</HstSeqZaehler><LinienID>118</LinienID><LinienText>18</LinienText><RichtungsText>Burggasse, Stadthalle U</RichtungsText><Stauindikator>false</Stauindikator><ZielHst>Finsterbuschstraße, Gast</ZielHst></AZBFahrplanlage></AZBNachricht><Bestaetigung Zst="2013-01-13T16:41:26" Ergebnis="ok"/></ns2:DatenAbrufenAntwort>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:DatenAbrufenAntwort xmlns:ns2="vdv453ger">
+  <AZBNachricht AboID="createcamp2">
+    <AZBFahrplanlage Zst="2013-01-13T16:43:28">
+      <AbfahrtszeitAZBPlan>2013-01-13T16:46:30</AbfahrtszeitAZBPlan>
+      <AbfahrtszeitAZBPrognose>2013-01-13T16:48:01</AbfahrtszeitAZBPrognose>
+      <AnkunftszeitAZBPlan>2013-01-13T16:46:30</AnkunftszeitAZBPlan>
+      <AnkunftszeitAZBPrognose>2013-01-13T16:48:01</AnkunftszeitAZBPrognose>
+      <AZBID>100848</AZBID>
+      <FahrtID>
+        <Betriebstag>2013-01-13</Betriebstag>
+        <FahrtBezeichner>130113-10695162</FahrtBezeichner>
+      </FahrtID>
+      <FahrtStatus>Ist</FahrtStatus>
+      <HstSeqZaehler>10</HstSeqZaehler>
+      <LinienID>118</LinienID>
+      <LinienText>18</LinienText>
+      <RichtungsText>Burggasse, Stadthalle U</RichtungsText>
+      <Stauindikator>false</Stauindikator>
+      <ZielHst>Finsterbuschstraße, Gast</ZielHst>
+    </AZBFahrplanlage>
+    <AZBFahrplanlage Zst="2013-01-13T16:43:28">
+      <AbfahrtszeitAZBPlan>2013-01-13T16:54:00</AbfahrtszeitAZBPlan>
+      <AbfahrtszeitAZBPrognose>2013-01-13T16:54:00</AbfahrtszeitAZBPrognose>
+      <AnkunftszeitAZBPlan>2013-01-13T16:54:00</AnkunftszeitAZBPlan>
+      <AnkunftszeitAZBPrognose>2013-01-13T16:54:00</AnkunftszeitAZBPrognose>
+      <AZBID>100848</AZBID>
+      <FahrtID>
+        <Betriebstag>2013-01-13</Betriebstag>
+        <FahrtBezeichner>130113-10695157</FahrtBezeichner>
+      </FahrtID>
+      <FahrtInfo>
+        <FahrzeugID>703</FahrzeugID>
+        <ServiceMerkmal>geeignet für mobilitätseingeschränkte Fahrgäste</ServiceMerkmal>
+      </FahrtInfo>
+      <FahrtStatus>Ist</FahrtStatus>
+      <HstSeqZaehler>10</HstSeqZaehler>
+      <LinienID>118</LinienID>
+      <LinienText>18</LinienText>
+      <RichtungsText>Burggasse, Stadthalle U</RichtungsText>
+      <Stauindikator>false</Stauindikator>
+      <ZielHst>Finsterbuschstraße, Gast</ZielHst>
+    </AZBFahrplanlage>
+    <AZBFahrplanlage Zst="2013-01-13T16:43:28">
+      <AbfahrtszeitAZBPlan>2013-01-13T17:01:30</AbfahrtszeitAZBPlan>
+      <AbfahrtszeitAZBPrognose>2013-01-13T17:01:30</AbfahrtszeitAZBPrognose>
+      <AnkunftszeitAZBPlan>2013-01-13T17:01:30</AnkunftszeitAZBPlan>
+      <AnkunftszeitAZBPrognose>2013-01-13T17:01:30</AnkunftszeitAZBPrognose>
+      <AZBID>100848</AZBID>
+      <FahrtID>
+        <Betriebstag>2013-01-13</Betriebstag>
+        <FahrtBezeichner>130113-10695154</FahrtBezeichner>
+      </FahrtID>
+      <FahrtStatus>Ist</FahrtStatus>
+      <HstSeqZaehler>10</HstSeqZaehler>
+      <LinienID>118</LinienID>
+      <LinienText>18</LinienText>
+      <RichtungsText>Burggasse, Stadthalle U</RichtungsText>
+      <Stauindikator>false</Stauindikator>
+      <ZielHst>Finsterbuschstraße, Gast</ZielHst>
+    </AZBFahrplanlage>
+    <AZBFahrplanlage Zst="2013-01-13T16:43:28">
+      <AbfahrtszeitAZBPlan>2013-01-13T17:09:00</AbfahrtszeitAZBPlan>
+      <AbfahrtszeitAZBPrognose>2013-01-13T17:09:00</AbfahrtszeitAZBPrognose>
+      <AnkunftszeitAZBPlan>2013-01-13T17:09:00</AnkunftszeitAZBPlan>
+      <AnkunftszeitAZBPrognose>2013-01-13T17:09:00</AnkunftszeitAZBPrognose>
+      <AZBID>100848</AZBID>
+      <FahrtID>
+        <Betriebstag>2013-01-13</Betriebstag>
+        <FahrtBezeichner>130113-10695150</FahrtBezeichner>
+      </FahrtID>
+      <FahrtInfo>
+        <FahrzeugID>620</FahrzeugID>
+        <ServiceMerkmal>geeignet für mobilitätseingeschränkte Fahrgäste</ServiceMerkmal>
+      </FahrtInfo>
+      <FahrtStatus>Ist</FahrtStatus>
+      <HstSeqZaehler>10</HstSeqZaehler>
+      <LinienID>118</LinienID>
+      <LinienText>18</LinienText>
+      <RichtungsText>Burggasse, Stadthalle U</RichtungsText>
+      <Stauindikator>false</Stauindikator>
+      <ZielHst>Finsterbuschstraße, Gast</ZielHst>
+    </AZBFahrplanlage>
+    <AZBFahrplanlage Zst="2013-01-13T16:43:28">
+      <AbfahrtszeitAZBPlan>2013-01-13T17:16:30</AbfahrtszeitAZBPlan>
+      <AbfahrtszeitAZBPrognose>2013-01-13T17:16:30</AbfahrtszeitAZBPrognose>
+      <AnkunftszeitAZBPlan>2013-01-13T17:16:30</AnkunftszeitAZBPlan>
+      <AnkunftszeitAZBPrognose>2013-01-13T17:16:30</AnkunftszeitAZBPrognose>
+      <AZBID>100848</AZBID>
+      <FahrtID>
+        <Betriebstag>2013-01-13</Betriebstag>
+        <FahrtBezeichner>130113-10695147</FahrtBezeichner>
+      </FahrtID>
+      <FahrtStatus>Ist</FahrtStatus>
+      <HstSeqZaehler>10</HstSeqZaehler>
+      <LinienID>118</LinienID>
+      <LinienText>18</LinienText>
+      <RichtungsText>Burggasse, Stadthalle U</RichtungsText>
+      <Stauindikator>false</Stauindikator>
+      <ZielHst>Finsterbuschstraße, Gast</ZielHst>
+    </AZBFahrplanlage>
+    <AZBFahrplanlage Zst="2013-01-13T16:43:28">
+      <AbfahrtszeitAZBPlan>2013-01-13T17:24:00</AbfahrtszeitAZBPlan>
+      <AbfahrtszeitAZBPrognose>2013-01-13T17:24:00</AbfahrtszeitAZBPrognose>
+      <AnkunftszeitAZBPlan>2013-01-13T17:24:00</AnkunftszeitAZBPlan>
+      <AnkunftszeitAZBPrognose>2013-01-13T17:24:00</AnkunftszeitAZBPrognose>
+      <AZBID>100848</AZBID>
+      <FahrtID>
+        <Betriebstag>2013-01-13</Betriebstag>
+        <FahrtBezeichner>130113-10695139</FahrtBezeichner>
+      </FahrtID>
+      <FahrtStatus>Ist</FahrtStatus>
+      <HstSeqZaehler>10</HstSeqZaehler>
+      <LinienID>118</LinienID>
+      <LinienText>18</LinienText>
+      <RichtungsText>Burggasse, Stadthalle U</RichtungsText>
+      <Stauindikator>false</Stauindikator>
+      <ZielHst>Finsterbuschstraße, Gast</ZielHst>
+    </AZBFahrplanlage>
+    <AZBFahrplanlage Zst="2013-01-13T16:43:28">
+      <AbfahrtszeitAZBPlan>2013-01-13T17:31:30</AbfahrtszeitAZBPlan>
+      <AbfahrtszeitAZBPrognose>2013-01-13T17:31:30</AbfahrtszeitAZBPrognose>
+      <AnkunftszeitAZBPlan>2013-01-13T17:31:30</AnkunftszeitAZBPlan>
+      <AnkunftszeitAZBPrognose>2013-01-13T17:31:30</AnkunftszeitAZBPrognose>
+      <AZBID>100848</AZBID>
+      <FahrtID>
+        <Betriebstag>2013-01-13</Betriebstag>
+        <FahrtBezeichner>130113-10695137</FahrtBezeichner>
+      </FahrtID>
+      <FahrtInfo>
+        <FahrzeugID>704</FahrzeugID>
+        <ServiceMerkmal>geeignet für mobilitätseingeschränkte Fahrgäste</ServiceMerkmal>
+      </FahrtInfo>
+      <FahrtStatus>Ist</FahrtStatus>
+      <HstSeqZaehler>10</HstSeqZaehler>
+      <LinienID>118</LinienID>
+      <LinienText>18</LinienText>
+      <RichtungsText>Burggasse, Stadthalle U</RichtungsText>
+      <Stauindikator>false</Stauindikator>
+      <ZielHst>Finsterbuschstraße, Gast</ZielHst>
+    </AZBFahrplanlage>
+    <AZBFahrplanlage Zst="2013-01-13T16:43:28">
+      <AbfahrtszeitAZBPlan>2013-01-13T17:39:00</AbfahrtszeitAZBPlan>
+      <AbfahrtszeitAZBPrognose>2013-01-13T17:39:00</AbfahrtszeitAZBPrognose>
+      <AnkunftszeitAZBPlan>2013-01-13T17:39:00</AnkunftszeitAZBPlan>
+      <AnkunftszeitAZBPrognose>2013-01-13T17:39:00</AnkunftszeitAZBPrognose>
+      <AZBID>100848</AZBID>
+      <FahrtID>
+        <Betriebstag>2013-01-13</Betriebstag>
+        <FahrtBezeichner>130113-10695134</FahrtBezeichner>
+      </FahrtID>
+      <FahrtInfo>
+        <FahrzeugID>646</FahrzeugID>
+        <ServiceMerkmal>geeignet für mobilitätseingeschränkte Fahrgäste</ServiceMerkmal>
+      </FahrtInfo>
+      <FahrtStatus>Ist</FahrtStatus>
+      <HstSeqZaehler>10</HstSeqZaehler>
+      <LinienID>118</LinienID>
+      <LinienText>18</LinienText>
+      <RichtungsText>Burggasse, Stadthalle U</RichtungsText>
+      <Stauindikator>false</Stauindikator>
+      <ZielHst>Finsterbuschstraße, Gast</ZielHst>
+    </AZBFahrplanlage>
+    <AZBFahrplanlage Zst="2013-01-13T16:43:28">
+      <AbfahrtszeitAZBPlan>2013-01-13T17:46:30</AbfahrtszeitAZBPlan>
+      <AbfahrtszeitAZBPrognose>2013-01-13T17:46:30</AbfahrtszeitAZBPrognose>
+      <AnkunftszeitAZBPlan>2013-01-13T17:46:30</AnkunftszeitAZBPlan>
+      <AnkunftszeitAZBPrognose>2013-01-13T17:46:30</AnkunftszeitAZBPrognose>
+      <AZBID>100848</AZBID>
+      <FahrtID>
+        <Betriebstag>2013-01-13</Betriebstag>
+        <FahrtBezeichner>130113-10695130</FahrtBezeichner>
+      </FahrtID>
+      <FahrtStatus>Soll</FahrtStatus>
+      <HstSeqZaehler>10</HstSeqZaehler>
+      <LinienID>118</LinienID>
+      <LinienText>18</LinienText>
+      <RichtungsText>Burggasse, Stadthalle U</RichtungsText>
+      <Stauindikator>false</Stauindikator>
+      <ZielHst>Finsterbuschstraße, Gast</ZielHst>
+    </AZBFahrplanlage>
+  </AZBNachricht>
+  <Bestaetigung Zst="2013-01-13T16:44:01" Ergebnis="ok"/>
+</ns2:DatenAbrufenAntwort>

@@ -1,1 +1,388 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?><ns2:DatenAbrufenAntwort xmlns:ns2="vdv453ger"><AZBNachricht AboID="createcamp2"><AZBFahrplanlage Zst="2013-01-13T16:40:28"><AbfahrtszeitAZBPlan>2013-01-13T16:40:00</AbfahrtszeitAZBPlan><AbfahrtszeitAZBPrognose>2013-01-13T16:41:35</AbfahrtszeitAZBPrognose><AnkunftszeitAZBPlan>2013-01-13T16:40:00</AnkunftszeitAZBPlan><AnkunftszeitAZBPrognose>2013-01-13T16:41:35</AnkunftszeitAZBPrognose><AZBID>100483</AZBID><FahrtID><Betriebstag>2013-01-13</Betriebstag><FahrtBezeichner>130113-10682609</FahrtBezeichner></FahrtID><FahrtInfo><FahrzeugID>633</FahrzeugID><ServiceMerkmal>geeignet für mobilitätseingeschränkte Fahrgäste</ServiceMerkmal></FahrtInfo><FahrtStatus>Ist</FahrtStatus><HstSeqZaehler>32</HstSeqZaehler><LinienID>106</LinienID><LinienText>6</LinienText><RichtungsText>Burggasse, Stadthalle U</RichtungsText><Stauindikator>false</Stauindikator><ZielHst>Feuerwache Am Steinhof</ZielHst></AZBFahrplanlage><AZBFahrplanlage Zst="2013-01-13T16:40:28"><AbfahrtszeitAZBPlan>2013-01-13T16:45:00</AbfahrtszeitAZBPlan><AbfahrtszeitAZBPrognose>2013-01-13T16:45:00</AbfahrtszeitAZBPrognose><AnkunftszeitAZBPlan>2013-01-13T16:45:00</AnkunftszeitAZBPlan><AnkunftszeitAZBPrognose>2013-01-13T16:45:00</AnkunftszeitAZBPrognose><AZBID>100483</AZBID><FahrtID><Betriebstag>2013-01-13</Betriebstag><FahrtBezeichner>130113-10695168</FahrtBezeichner></FahrtID><FahrtInfo><FahrzeugID>720</FahrzeugID><ServiceMerkmal>geeignet für mobilitätseingeschränkte Fahrgäste</ServiceMerkmal></FahrtInfo><FahrtStatus>Ist</FahrtStatus><HstSeqZaehler>18</HstSeqZaehler><LinienID>118</LinienID><LinienText>18</LinienText><RichtungsText>Burggasse, Stadthalle U</RichtungsText><Stauindikator>false</Stauindikator><ZielHst>Finsterbuschstraße, Gast</ZielHst></AZBFahrplanlage><AZBFahrplanlage Zst="2013-01-13T16:40:28"><AbfahrtszeitAZBPlan>2013-01-13T16:47:30</AbfahrtszeitAZBPlan><AbfahrtszeitAZBPrognose>2013-01-13T16:47:53</AbfahrtszeitAZBPrognose><AnkunftszeitAZBPlan>2013-01-13T16:47:30</AnkunftszeitAZBPlan><AnkunftszeitAZBPrognose>2013-01-13T16:47:53</AnkunftszeitAZBPrognose><AZBID>100483</AZBID><FahrtID><Betriebstag>2013-01-13</Betriebstag><FahrtBezeichner>130113-10682605</FahrtBezeichner></FahrtID><FahrtInfo><FahrzeugID>642</FahrzeugID><ServiceMerkmal>geeignet für mobilitätseingeschränkte Fahrgäste</ServiceMerkmal></FahrtInfo><FahrtStatus>Ist</FahrtStatus><HstSeqZaehler>32</HstSeqZaehler><LinienID>106</LinienID><LinienText>6</LinienText><RichtungsText>Burggasse, Stadthalle U</RichtungsText><Stauindikator>false</Stauindikator><ZielHst>Feuerwache Am Steinhof</ZielHst></AZBFahrplanlage><AZBFahrplanlage Zst="2013-01-13T16:40:28"><AbfahrtszeitAZBPlan>2013-01-13T16:52:30</AbfahrtszeitAZBPlan><AbfahrtszeitAZBPrognose>2013-01-13T16:52:30</AbfahrtszeitAZBPrognose><AnkunftszeitAZBPlan>2013-01-13T16:52:30</AnkunftszeitAZBPlan><AnkunftszeitAZBPrognose>2013-01-13T16:52:30</AnkunftszeitAZBPrognose><AZBID>100483</AZBID><FahrtID><Betriebstag>2013-01-13</Betriebstag><FahrtBezeichner>130113-10695165</FahrtBezeichner></FahrtID><FahrtStatus>Ist</FahrtStatus><HstSeqZaehler>18</HstSeqZaehler><LinienID>118</LinienID><LinienText>18</LinienText><RichtungsText>Burggasse, Stadthalle U</RichtungsText><Stauindikator>false</Stauindikator><ZielHst>Finsterbuschstraße, Gast</ZielHst></AZBFahrplanlage><AZBFahrplanlage Zst="2013-01-13T16:40:28"><AbfahrtszeitAZBPlan>2013-01-13T16:55:00</AbfahrtszeitAZBPlan><AbfahrtszeitAZBPrognose>2013-01-13T16:55:53</AbfahrtszeitAZBPrognose><AnkunftszeitAZBPlan>2013-01-13T16:55:00</AnkunftszeitAZBPlan><AnkunftszeitAZBPrognose>2013-01-13T16:55:53</AnkunftszeitAZBPrognose><AZBID>100483</AZBID><FahrtID><Betriebstag>2013-01-13</Betriebstag><FahrtBezeichner>130113-10682600</FahrtBezeichner></FahrtID><FahrtStatus>Ist</FahrtStatus><HstSeqZaehler>32</HstSeqZaehler><LinienID>106</LinienID><LinienText>6</LinienText><RichtungsText>Burggasse, Stadthalle U</RichtungsText><Stauindikator>false</Stauindikator><ZielHst>Feuerwache Am Steinhof</ZielHst></AZBFahrplanlage><AZBFahrplanlage Zst="2013-01-13T16:40:28"><AbfahrtszeitAZBPlan>2013-01-13T17:00:00</AbfahrtszeitAZBPlan><AbfahrtszeitAZBPrognose>2013-01-13T17:01:23</AbfahrtszeitAZBPrognose><AnkunftszeitAZBPlan>2013-01-13T17:00:00</AnkunftszeitAZBPlan><AnkunftszeitAZBPrognose>2013-01-13T17:01:23</AnkunftszeitAZBPrognose><AZBID>100483</AZBID><FahrtID><Betriebstag>2013-01-13</Betriebstag><FahrtBezeichner>130113-10695162</FahrtBezeichner></FahrtID><FahrtStatus>Ist</FahrtStatus><HstSeqZaehler>18</HstSeqZaehler><LinienID>118</LinienID><LinienText>18</LinienText><RichtungsText>Burggasse, Stadthalle U</RichtungsText><Stauindikator>false</Stauindikator><ZielHst>Finsterbuschstraße, Gast</ZielHst></AZBFahrplanlage><AZBFahrplanlage Zst="2013-01-13T16:40:28"><AbfahrtszeitAZBPlan>2013-01-13T17:02:30</AbfahrtszeitAZBPlan><AbfahrtszeitAZBPrognose>2013-01-13T17:02:33</AbfahrtszeitAZBPrognose><AnkunftszeitAZBPlan>2013-01-13T17:02:30</AnkunftszeitAZBPlan><AnkunftszeitAZBPrognose>2013-01-13T17:02:33</AnkunftszeitAZBPrognose><AZBID>100483</AZBID><FahrtID><Betriebstag>2013-01-13</Betriebstag><FahrtBezeichner>130113-10682596</FahrtBezeichner></FahrtID><FahrtStatus>Ist</FahrtStatus><HstSeqZaehler>32</HstSeqZaehler><LinienID>106</LinienID><LinienText>6</LinienText><RichtungsText>Burggasse, Stadthalle U</RichtungsText><Stauindikator>false</Stauindikator><ZielHst>Feuerwache Am Steinhof</ZielHst></AZBFahrplanlage><AZBFahrplanlage Zst="2013-01-13T16:40:28"><AbfahrtszeitAZBPlan>2013-01-13T17:07:30</AbfahrtszeitAZBPlan><AbfahrtszeitAZBPrognose>2013-01-13T17:07:30</AbfahrtszeitAZBPrognose><AnkunftszeitAZBPlan>2013-01-13T17:07:30</AnkunftszeitAZBPlan><AnkunftszeitAZBPrognose>2013-01-13T17:07:30</AnkunftszeitAZBPrognose><AZBID>100483</AZBID><FahrtID><Betriebstag>2013-01-13</Betriebstag><FahrtBezeichner>130113-10695157</FahrtBezeichner></FahrtID><FahrtInfo><FahrzeugID>703</FahrzeugID><ServiceMerkmal>geeignet für mobilitätseingeschränkte Fahrgäste</ServiceMerkmal></FahrtInfo><FahrtStatus>Ist</FahrtStatus><HstSeqZaehler>18</HstSeqZaehler><LinienID>118</LinienID><LinienText>18</LinienText><RichtungsText>Burggasse, Stadthalle U</RichtungsText><Stauindikator>false</Stauindikator><ZielHst>Finsterbuschstraße, Gast</ZielHst></AZBFahrplanlage><AZBFahrplanlage Zst="2013-01-13T16:40:28"><AbfahrtszeitAZBPlan>2013-01-13T17:10:00</AbfahrtszeitAZBPlan><AbfahrtszeitAZBPrognose>2013-01-13T17:10:00</AbfahrtszeitAZBPrognose><AnkunftszeitAZBPlan>2013-01-13T17:10:00</AnkunftszeitAZBPlan><AnkunftszeitAZBPrognose>2013-01-13T17:10:00</AnkunftszeitAZBPrognose><AZBID>100483</AZBID><FahrtID><Betriebstag>2013-01-13</Betriebstag><FahrtBezeichner>130113-10682592</FahrtBezeichner></FahrtID><FahrtInfo><FahrzeugID>650</FahrzeugID><ServiceMerkmal>geeignet für mobilitätseingeschränkte Fahrgäste</ServiceMerkmal></FahrtInfo><FahrtStatus>Ist</FahrtStatus><HstSeqZaehler>32</HstSeqZaehler><LinienID>106</LinienID><LinienText>6</LinienText><RichtungsText>Burggasse, Stadthalle U</RichtungsText><Stauindikator>false</Stauindikator><ZielHst>Feuerwache Am Steinhof</ZielHst></AZBFahrplanlage><AZBFahrplanlage Zst="2013-01-13T16:40:28"><AbfahrtszeitAZBPlan>2013-01-13T17:15:00</AbfahrtszeitAZBPlan><AbfahrtszeitAZBPrognose>2013-01-13T17:15:00</AbfahrtszeitAZBPrognose><AnkunftszeitAZBPlan>2013-01-13T17:15:00</AnkunftszeitAZBPlan><AnkunftszeitAZBPrognose>2013-01-13T17:15:00</AnkunftszeitAZBPrognose><AZBID>100483</AZBID><FahrtID><Betriebstag>2013-01-13</Betriebstag><FahrtBezeichner>130113-10695154</FahrtBezeichner></FahrtID><FahrtStatus>Ist</FahrtStatus><HstSeqZaehler>18</HstSeqZaehler><LinienID>118</LinienID><LinienText>18</LinienText><RichtungsText>Burggasse, Stadthalle U</RichtungsText><Stauindikator>false</Stauindikator><ZielHst>Finsterbuschstraße, Gast</ZielHst></AZBFahrplanlage><AZBFahrplanlage Zst="2013-01-13T16:40:28"><AbfahrtszeitAZBPlan>2013-01-13T17:17:30</AbfahrtszeitAZBPlan><AbfahrtszeitAZBPrognose>2013-01-13T17:17:30</AbfahrtszeitAZBPrognose><AnkunftszeitAZBPlan>2013-01-13T17:17:30</AnkunftszeitAZBPlan><AnkunftszeitAZBPrognose>2013-01-13T17:17:30</AnkunftszeitAZBPrognose><AZBID>100483</AZBID><FahrtID><Betriebstag>2013-01-13</Betriebstag><FahrtBezeichner>130113-10682588</FahrtBezeichner></FahrtID><FahrtInfo><FahrzeugID>636</FahrzeugID><ServiceMerkmal>geeignet für mobilitätseingeschränkte Fahrgäste</ServiceMerkmal></FahrtInfo><FahrtStatus>Ist</FahrtStatus><HstSeqZaehler>32</HstSeqZaehler><LinienID>106</LinienID><LinienText>6</LinienText><RichtungsText>Burggasse, Stadthalle U</RichtungsText><Stauindikator>false</Stauindikator><ZielHst>Feuerwache Am Steinhof</ZielHst></AZBFahrplanlage><AZBFahrplanlage Zst="2013-01-13T16:40:28"><AbfahrtszeitAZBPlan>2013-01-13T17:22:30</AbfahrtszeitAZBPlan><AbfahrtszeitAZBPrognose>2013-01-13T17:22:30</AbfahrtszeitAZBPrognose><AnkunftszeitAZBPlan>2013-01-13T17:22:30</AnkunftszeitAZBPlan><AnkunftszeitAZBPrognose>2013-01-13T17:22:30</AnkunftszeitAZBPrognose><AZBID>100483</AZBID><FahrtID><Betriebstag>2013-01-13</Betriebstag><FahrtBezeichner>130113-10695150</FahrtBezeichner></FahrtID><FahrtInfo><FahrzeugID>620</FahrzeugID><ServiceMerkmal>geeignet für mobilitätseingeschränkte Fahrgäste</ServiceMerkmal></FahrtInfo><FahrtStatus>Ist</FahrtStatus><HstSeqZaehler>18</HstSeqZaehler><LinienID>118</LinienID><LinienText>18</LinienText><RichtungsText>Burggasse, Stadthalle U</RichtungsText><Stauindikator>false</Stauindikator><ZielHst>Finsterbuschstraße, Gast</ZielHst></AZBFahrplanlage><AZBFahrplanlage Zst="2013-01-13T16:40:28"><AbfahrtszeitAZBPlan>2013-01-13T17:25:00</AbfahrtszeitAZBPlan><AbfahrtszeitAZBPrognose>2013-01-13T17:25:00</AbfahrtszeitAZBPrognose><AnkunftszeitAZBPlan>2013-01-13T17:25:00</AnkunftszeitAZBPlan><AnkunftszeitAZBPrognose>2013-01-13T17:25:00</AnkunftszeitAZBPrognose><AZBID>100483</AZBID><FahrtID><Betriebstag>2013-01-13</Betriebstag><FahrtBezeichner>130113-10682585</FahrtBezeichner></FahrtID><FahrtStatus>Ist</FahrtStatus><HstSeqZaehler>32</HstSeqZaehler><LinienID>106</LinienID><LinienText>6</LinienText><RichtungsText>Burggasse, Stadthalle U</RichtungsText><Stauindikator>false</Stauindikator><ZielHst>Feuerwache Am Steinhof</ZielHst></AZBFahrplanlage><AZBFahrplanlage Zst="2013-01-13T16:40:28"><AbfahrtszeitAZBPlan>2013-01-13T17:30:00</AbfahrtszeitAZBPlan><AbfahrtszeitAZBPrognose>2013-01-13T17:30:00</AbfahrtszeitAZBPrognose><AnkunftszeitAZBPlan>2013-01-13T17:30:00</AnkunftszeitAZBPlan><AnkunftszeitAZBPrognose>2013-01-13T17:30:00</AnkunftszeitAZBPrognose><AZBID>100483</AZBID><FahrtID><Betriebstag>2013-01-13</Betriebstag><FahrtBezeichner>130113-10695147</FahrtBezeichner></FahrtID><FahrtStatus>Ist</FahrtStatus><HstSeqZaehler>18</HstSeqZaehler><LinienID>118</LinienID><LinienText>18</LinienText><RichtungsText>Burggasse, Stadthalle U</RichtungsText><Stauindikator>false</Stauindikator><ZielHst>Finsterbuschstraße, Gast</ZielHst></AZBFahrplanlage><AZBFahrplanlage Zst="2013-01-13T16:40:28"><AbfahrtszeitAZBPlan>2013-01-13T17:32:30</AbfahrtszeitAZBPlan><AbfahrtszeitAZBPrognose>2013-01-13T17:32:30</AbfahrtszeitAZBPrognose><AnkunftszeitAZBPlan>2013-01-13T17:32:30</AnkunftszeitAZBPlan><AnkunftszeitAZBPrognose>2013-01-13T17:32:30</AnkunftszeitAZBPrognose><AZBID>100483</AZBID><FahrtID><Betriebstag>2013-01-13</Betriebstag><FahrtBezeichner>130113-10682583</FahrtBezeichner></FahrtID><FahrtInfo><FahrzeugID>614</FahrzeugID><ServiceMerkmal>geeignet für mobilitätseingeschränkte Fahrgäste</ServiceMerkmal></FahrtInfo><FahrtStatus>Ist</FahrtStatus><HstSeqZaehler>32</HstSeqZaehler><LinienID>106</LinienID><LinienText>6</LinienText><RichtungsText>Burggasse, Stadthalle U</RichtungsText><Stauindikator>false</Stauindikator><ZielHst>Feuerwache Am Steinhof</ZielHst></AZBFahrplanlage><AZBFahrplanlage Zst="2013-01-13T16:40:28"><AbfahrtszeitAZBPlan>2013-01-13T17:37:30</AbfahrtszeitAZBPlan><AbfahrtszeitAZBPrognose>2013-01-13T17:37:30</AbfahrtszeitAZBPrognose><AnkunftszeitAZBPlan>2013-01-13T17:37:30</AnkunftszeitAZBPlan><AnkunftszeitAZBPrognose>2013-01-13T17:37:30</AnkunftszeitAZBPrognose><AZBID>100483</AZBID><FahrtID><Betriebstag>2013-01-13</Betriebstag><FahrtBezeichner>130113-10695139</FahrtBezeichner></FahrtID><FahrtStatus>Ist</FahrtStatus><HstSeqZaehler>18</HstSeqZaehler><LinienID>118</LinienID><LinienText>18</LinienText><RichtungsText>Burggasse, Stadthalle U</RichtungsText><Stauindikator>false</Stauindikator><ZielHst>Finsterbuschstraße, Gast</ZielHst></AZBFahrplanlage><AZBFahrplanlage Zst="2013-01-13T16:40:28"><AbfahrtszeitAZBPlan>2013-01-13T17:40:00</AbfahrtszeitAZBPlan><AbfahrtszeitAZBPrognose>2013-01-13T17:40:00</AbfahrtszeitAZBPrognose><AnkunftszeitAZBPlan>2013-01-13T17:40:00</AnkunftszeitAZBPlan><AnkunftszeitAZBPrognose>2013-01-13T17:40:00</AnkunftszeitAZBPrognose><AZBID>100483</AZBID><FahrtID><Betriebstag>2013-01-13</Betriebstag><FahrtBezeichner>130113-10682581</FahrtBezeichner></FahrtID><FahrtStatus>Ist</FahrtStatus><HstSeqZaehler>32</HstSeqZaehler><LinienID>106</LinienID><LinienText>6</LinienText><RichtungsText>Burggasse, Stadthalle U</RichtungsText><Stauindikator>false</Stauindikator><ZielHst>Feuerwache Am Steinhof</ZielHst></AZBFahrplanlage><AZBFahrplanlage Zst="2013-01-13T16:40:28"><AbfahrtszeitAZBPlan>2013-01-13T17:45:00</AbfahrtszeitAZBPlan><AbfahrtszeitAZBPrognose>2013-01-13T17:45:00</AbfahrtszeitAZBPrognose><AnkunftszeitAZBPlan>2013-01-13T17:45:00</AnkunftszeitAZBPlan><AnkunftszeitAZBPrognose>2013-01-13T17:45:00</AnkunftszeitAZBPrognose><AZBID>100483</AZBID><FahrtID><Betriebstag>2013-01-13</Betriebstag><FahrtBezeichner>130113-10695137</FahrtBezeichner></FahrtID><FahrtInfo><FahrzeugID>704</FahrzeugID><ServiceMerkmal>geeignet für mobilitätseingeschränkte Fahrgäste</ServiceMerkmal></FahrtInfo><FahrtStatus>Ist</FahrtStatus><HstSeqZaehler>18</HstSeqZaehler><LinienID>118</LinienID><LinienText>18</LinienText><RichtungsText>Burggasse, Stadthalle U</RichtungsText><Stauindikator>false</Stauindikator><ZielHst>Finsterbuschstraße, Gast</ZielHst></AZBFahrplanlage><AZBFahrplanlage Zst="2013-01-13T16:40:28"><AbfahrtszeitAZBPlan>2013-01-13T17:47:30</AbfahrtszeitAZBPlan><AbfahrtszeitAZBPrognose>2013-01-13T17:47:30</AbfahrtszeitAZBPrognose><AnkunftszeitAZBPlan>2013-01-13T17:47:30</AnkunftszeitAZBPlan><AnkunftszeitAZBPrognose>2013-01-13T17:47:30</AnkunftszeitAZBPrognose><AZBID>100483</AZBID><FahrtID><Betriebstag>2013-01-13</Betriebstag><FahrtBezeichner>130113-10682578</FahrtBezeichner></FahrtID><FahrtInfo><FahrzeugID>612</FahrzeugID><ServiceMerkmal>geeignet für mobilitätseingeschränkte Fahrgäste</ServiceMerkmal></FahrtInfo><FahrtStatus>Ist</FahrtStatus><HstSeqZaehler>32</HstSeqZaehler><LinienID>106</LinienID><LinienText>6</LinienText><RichtungsText>Burggasse, Stadthalle U</RichtungsText><Stauindikator>false</Stauindikator><ZielHst>Feuerwache Am Steinhof</ZielHst></AZBFahrplanlage></AZBNachricht><Bestaetigung Zst="2013-01-13T16:41:28" Ergebnis="ok"/></ns2:DatenAbrufenAntwort>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:DatenAbrufenAntwort xmlns:ns2="vdv453ger">
+  <AZBNachricht AboID="createcamp2">
+    <AZBFahrplanlage Zst="2013-01-13T16:42:55">
+      <AbfahrtszeitAZBPlan>2013-01-13T16:45:00</AbfahrtszeitAZBPlan>
+      <AbfahrtszeitAZBPrognose>2013-01-13T16:45:00</AbfahrtszeitAZBPrognose>
+      <AnkunftszeitAZBPlan>2013-01-13T16:45:00</AnkunftszeitAZBPlan>
+      <AnkunftszeitAZBPrognose>2013-01-13T16:45:00</AnkunftszeitAZBPrognose>
+      <AZBID>100483</AZBID>
+      <FahrtID>
+        <Betriebstag>2013-01-13</Betriebstag>
+        <FahrtBezeichner>130113-10695168</FahrtBezeichner>
+      </FahrtID>
+      <FahrtInfo>
+        <FahrzeugID>720</FahrzeugID>
+        <ServiceMerkmal>geeignet für mobilitätseingeschränkte Fahrgäste</ServiceMerkmal>
+      </FahrtInfo>
+      <FahrtStatus>Ist</FahrtStatus>
+      <HstSeqZaehler>18</HstSeqZaehler>
+      <LinienID>118</LinienID>
+      <LinienText>18</LinienText>
+      <RichtungsText>Burggasse, Stadthalle U</RichtungsText>
+      <Stauindikator>false</Stauindikator>
+      <ZielHst>Finsterbuschstraße, Gast</ZielHst>
+    </AZBFahrplanlage>
+    <AZBFahrplanlage Zst="2013-01-13T16:42:55">
+      <AbfahrtszeitAZBPlan>2013-01-13T16:47:30</AbfahrtszeitAZBPlan>
+      <AbfahrtszeitAZBPrognose>2013-01-13T16:48:52</AbfahrtszeitAZBPrognose>
+      <AnkunftszeitAZBPlan>2013-01-13T16:47:30</AnkunftszeitAZBPlan>
+      <AnkunftszeitAZBPrognose>2013-01-13T16:48:52</AnkunftszeitAZBPrognose>
+      <AZBID>100483</AZBID>
+      <FahrtID>
+        <Betriebstag>2013-01-13</Betriebstag>
+        <FahrtBezeichner>130113-10682605</FahrtBezeichner>
+      </FahrtID>
+      <FahrtInfo>
+        <FahrzeugID>642</FahrzeugID>
+        <ServiceMerkmal>geeignet für mobilitätseingeschränkte Fahrgäste</ServiceMerkmal>
+      </FahrtInfo>
+      <FahrtStatus>Ist</FahrtStatus>
+      <HstSeqZaehler>32</HstSeqZaehler>
+      <LinienID>106</LinienID>
+      <LinienText>6</LinienText>
+      <RichtungsText>Burggasse, Stadthalle U</RichtungsText>
+      <Stauindikator>false</Stauindikator>
+      <ZielHst>Feuerwache Am Steinhof</ZielHst>
+    </AZBFahrplanlage>
+    <AZBFahrplanlage Zst="2013-01-13T16:42:55">
+      <AbfahrtszeitAZBPlan>2013-01-13T16:52:30</AbfahrtszeitAZBPlan>
+      <AbfahrtszeitAZBPrognose>2013-01-13T16:52:30</AbfahrtszeitAZBPrognose>
+      <AnkunftszeitAZBPlan>2013-01-13T16:52:30</AnkunftszeitAZBPlan>
+      <AnkunftszeitAZBPrognose>2013-01-13T16:52:30</AnkunftszeitAZBPrognose>
+      <AZBID>100483</AZBID>
+      <FahrtID>
+        <Betriebstag>2013-01-13</Betriebstag>
+        <FahrtBezeichner>130113-10695165</FahrtBezeichner>
+      </FahrtID>
+      <FahrtStatus>Ist</FahrtStatus>
+      <HstSeqZaehler>18</HstSeqZaehler>
+      <LinienID>118</LinienID>
+      <LinienText>18</LinienText>
+      <RichtungsText>Burggasse, Stadthalle U</RichtungsText>
+      <Stauindikator>false</Stauindikator>
+      <ZielHst>Finsterbuschstraße, Gast</ZielHst>
+    </AZBFahrplanlage>
+    <AZBFahrplanlage Zst="2013-01-13T16:42:55">
+      <AbfahrtszeitAZBPlan>2013-01-13T16:55:00</AbfahrtszeitAZBPlan>
+      <AbfahrtszeitAZBPrognose>2013-01-13T16:56:11</AbfahrtszeitAZBPrognose>
+      <AnkunftszeitAZBPlan>2013-01-13T16:55:00</AnkunftszeitAZBPlan>
+      <AnkunftszeitAZBPrognose>2013-01-13T16:56:11</AnkunftszeitAZBPrognose>
+      <AZBID>100483</AZBID>
+      <FahrtID>
+        <Betriebstag>2013-01-13</Betriebstag>
+        <FahrtBezeichner>130113-10682600</FahrtBezeichner>
+      </FahrtID>
+      <FahrtStatus>Ist</FahrtStatus>
+      <HstSeqZaehler>32</HstSeqZaehler>
+      <LinienID>106</LinienID>
+      <LinienText>6</LinienText>
+      <RichtungsText>Burggasse, Stadthalle U</RichtungsText>
+      <Stauindikator>false</Stauindikator>
+      <ZielHst>Feuerwache Am Steinhof</ZielHst>
+    </AZBFahrplanlage>
+    <AZBFahrplanlage Zst="2013-01-13T16:42:55">
+      <AbfahrtszeitAZBPlan>2013-01-13T17:00:00</AbfahrtszeitAZBPlan>
+      <AbfahrtszeitAZBPrognose>2013-01-13T17:01:57</AbfahrtszeitAZBPrognose>
+      <AnkunftszeitAZBPlan>2013-01-13T17:00:00</AnkunftszeitAZBPlan>
+      <AnkunftszeitAZBPrognose>2013-01-13T17:01:57</AnkunftszeitAZBPrognose>
+      <AZBID>100483</AZBID>
+      <FahrtID>
+        <Betriebstag>2013-01-13</Betriebstag>
+        <FahrtBezeichner>130113-10695162</FahrtBezeichner>
+      </FahrtID>
+      <FahrtStatus>Ist</FahrtStatus>
+      <HstSeqZaehler>18</HstSeqZaehler>
+      <LinienID>118</LinienID>
+      <LinienText>18</LinienText>
+      <RichtungsText>Burggasse, Stadthalle U</RichtungsText>
+      <Stauindikator>false</Stauindikator>
+      <ZielHst>Finsterbuschstraße, Gast</ZielHst>
+    </AZBFahrplanlage>
+    <AZBFahrplanlage Zst="2013-01-13T16:42:55">
+      <AbfahrtszeitAZBPlan>2013-01-13T17:02:30</AbfahrtszeitAZBPlan>
+      <AbfahrtszeitAZBPrognose>2013-01-13T17:02:52</AbfahrtszeitAZBPrognose>
+      <AnkunftszeitAZBPlan>2013-01-13T17:02:30</AnkunftszeitAZBPlan>
+      <AnkunftszeitAZBPrognose>2013-01-13T17:02:52</AnkunftszeitAZBPrognose>
+      <AZBID>100483</AZBID>
+      <FahrtID>
+        <Betriebstag>2013-01-13</Betriebstag>
+        <FahrtBezeichner>130113-10682596</FahrtBezeichner>
+      </FahrtID>
+      <FahrtStatus>Ist</FahrtStatus>
+      <HstSeqZaehler>32</HstSeqZaehler>
+      <LinienID>106</LinienID>
+      <LinienText>6</LinienText>
+      <RichtungsText>Burggasse, Stadthalle U</RichtungsText>
+      <Stauindikator>false</Stauindikator>
+      <ZielHst>Feuerwache Am Steinhof</ZielHst>
+    </AZBFahrplanlage>
+    <AZBFahrplanlage Zst="2013-01-13T16:42:55">
+      <AbfahrtszeitAZBPlan>2013-01-13T17:07:30</AbfahrtszeitAZBPlan>
+      <AbfahrtszeitAZBPrognose>2013-01-13T17:07:30</AbfahrtszeitAZBPrognose>
+      <AnkunftszeitAZBPlan>2013-01-13T17:07:30</AnkunftszeitAZBPlan>
+      <AnkunftszeitAZBPrognose>2013-01-13T17:07:30</AnkunftszeitAZBPrognose>
+      <AZBID>100483</AZBID>
+      <FahrtID>
+        <Betriebstag>2013-01-13</Betriebstag>
+        <FahrtBezeichner>130113-10695157</FahrtBezeichner>
+      </FahrtID>
+      <FahrtInfo>
+        <FahrzeugID>703</FahrzeugID>
+        <ServiceMerkmal>geeignet für mobilitätseingeschränkte Fahrgäste</ServiceMerkmal>
+      </FahrtInfo>
+      <FahrtStatus>Ist</FahrtStatus>
+      <HstSeqZaehler>18</HstSeqZaehler>
+      <LinienID>118</LinienID>
+      <LinienText>18</LinienText>
+      <RichtungsText>Burggasse, Stadthalle U</RichtungsText>
+      <Stauindikator>false</Stauindikator>
+      <ZielHst>Finsterbuschstraße, Gast</ZielHst>
+    </AZBFahrplanlage>
+    <AZBFahrplanlage Zst="2013-01-13T16:42:55">
+      <AbfahrtszeitAZBPlan>2013-01-13T17:10:00</AbfahrtszeitAZBPlan>
+      <AbfahrtszeitAZBPrognose>2013-01-13T17:10:00</AbfahrtszeitAZBPrognose>
+      <AnkunftszeitAZBPlan>2013-01-13T17:10:00</AnkunftszeitAZBPlan>
+      <AnkunftszeitAZBPrognose>2013-01-13T17:10:00</AnkunftszeitAZBPrognose>
+      <AZBID>100483</AZBID>
+      <FahrtID>
+        <Betriebstag>2013-01-13</Betriebstag>
+        <FahrtBezeichner>130113-10682592</FahrtBezeichner>
+      </FahrtID>
+      <FahrtInfo>
+        <FahrzeugID>650</FahrzeugID>
+        <ServiceMerkmal>geeignet für mobilitätseingeschränkte Fahrgäste</ServiceMerkmal>
+      </FahrtInfo>
+      <FahrtStatus>Ist</FahrtStatus>
+      <HstSeqZaehler>32</HstSeqZaehler>
+      <LinienID>106</LinienID>
+      <LinienText>6</LinienText>
+      <RichtungsText>Burggasse, Stadthalle U</RichtungsText>
+      <Stauindikator>false</Stauindikator>
+      <ZielHst>Feuerwache Am Steinhof</ZielHst>
+    </AZBFahrplanlage>
+    <AZBFahrplanlage Zst="2013-01-13T16:42:55">
+      <AbfahrtszeitAZBPlan>2013-01-13T17:15:00</AbfahrtszeitAZBPlan>
+      <AbfahrtszeitAZBPrognose>2013-01-13T17:15:00</AbfahrtszeitAZBPrognose>
+      <AnkunftszeitAZBPlan>2013-01-13T17:15:00</AnkunftszeitAZBPlan>
+      <AnkunftszeitAZBPrognose>2013-01-13T17:15:00</AnkunftszeitAZBPrognose>
+      <AZBID>100483</AZBID>
+      <FahrtID>
+        <Betriebstag>2013-01-13</Betriebstag>
+        <FahrtBezeichner>130113-10695154</FahrtBezeichner>
+      </FahrtID>
+      <FahrtStatus>Ist</FahrtStatus>
+      <HstSeqZaehler>18</HstSeqZaehler>
+      <LinienID>118</LinienID>
+      <LinienText>18</LinienText>
+      <RichtungsText>Burggasse, Stadthalle U</RichtungsText>
+      <Stauindikator>false</Stauindikator>
+      <ZielHst>Finsterbuschstraße, Gast</ZielHst>
+    </AZBFahrplanlage>
+    <AZBFahrplanlage Zst="2013-01-13T16:42:55">
+      <AbfahrtszeitAZBPlan>2013-01-13T17:17:30</AbfahrtszeitAZBPlan>
+      <AbfahrtszeitAZBPrognose>2013-01-13T17:17:30</AbfahrtszeitAZBPrognose>
+      <AnkunftszeitAZBPlan>2013-01-13T17:17:30</AnkunftszeitAZBPlan>
+      <AnkunftszeitAZBPrognose>2013-01-13T17:17:30</AnkunftszeitAZBPrognose>
+      <AZBID>100483</AZBID>
+      <FahrtID>
+        <Betriebstag>2013-01-13</Betriebstag>
+        <FahrtBezeichner>130113-10682588</FahrtBezeichner>
+      </FahrtID>
+      <FahrtInfo>
+        <FahrzeugID>636</FahrzeugID>
+        <ServiceMerkmal>geeignet für mobilitätseingeschränkte Fahrgäste</ServiceMerkmal>
+      </FahrtInfo>
+      <FahrtStatus>Ist</FahrtStatus>
+      <HstSeqZaehler>32</HstSeqZaehler>
+      <LinienID>106</LinienID>
+      <LinienText>6</LinienText>
+      <RichtungsText>Burggasse, Stadthalle U</RichtungsText>
+      <Stauindikator>false</Stauindikator>
+      <ZielHst>Feuerwache Am Steinhof</ZielHst>
+    </AZBFahrplanlage>
+    <AZBFahrplanlage Zst="2013-01-13T16:42:55">
+      <AbfahrtszeitAZBPlan>2013-01-13T17:22:30</AbfahrtszeitAZBPlan>
+      <AbfahrtszeitAZBPrognose>2013-01-13T17:22:30</AbfahrtszeitAZBPrognose>
+      <AnkunftszeitAZBPlan>2013-01-13T17:22:30</AnkunftszeitAZBPlan>
+      <AnkunftszeitAZBPrognose>2013-01-13T17:22:30</AnkunftszeitAZBPrognose>
+      <AZBID>100483</AZBID>
+      <FahrtID>
+        <Betriebstag>2013-01-13</Betriebstag>
+        <FahrtBezeichner>130113-10695150</FahrtBezeichner>
+      </FahrtID>
+      <FahrtInfo>
+        <FahrzeugID>620</FahrzeugID>
+        <ServiceMerkmal>geeignet für mobilitätseingeschränkte Fahrgäste</ServiceMerkmal>
+      </FahrtInfo>
+      <FahrtStatus>Ist</FahrtStatus>
+      <HstSeqZaehler>18</HstSeqZaehler>
+      <LinienID>118</LinienID>
+      <LinienText>18</LinienText>
+      <RichtungsText>Burggasse, Stadthalle U</RichtungsText>
+      <Stauindikator>false</Stauindikator>
+      <ZielHst>Finsterbuschstraße, Gast</ZielHst>
+    </AZBFahrplanlage>
+    <AZBFahrplanlage Zst="2013-01-13T16:42:55">
+      <AbfahrtszeitAZBPlan>2013-01-13T17:25:00</AbfahrtszeitAZBPlan>
+      <AbfahrtszeitAZBPrognose>2013-01-13T17:25:06</AbfahrtszeitAZBPrognose>
+      <AnkunftszeitAZBPlan>2013-01-13T17:25:00</AnkunftszeitAZBPlan>
+      <AnkunftszeitAZBPrognose>2013-01-13T17:25:06</AnkunftszeitAZBPrognose>
+      <AZBID>100483</AZBID>
+      <FahrtID>
+        <Betriebstag>2013-01-13</Betriebstag>
+        <FahrtBezeichner>130113-10682585</FahrtBezeichner>
+      </FahrtID>
+      <FahrtStatus>Ist</FahrtStatus>
+      <HstSeqZaehler>32</HstSeqZaehler>
+      <LinienID>106</LinienID>
+      <LinienText>6</LinienText>
+      <RichtungsText>Burggasse, Stadthalle U</RichtungsText>
+      <Stauindikator>false</Stauindikator>
+      <ZielHst>Feuerwache Am Steinhof</ZielHst>
+    </AZBFahrplanlage>
+    <AZBFahrplanlage Zst="2013-01-13T16:42:55">
+      <AbfahrtszeitAZBPlan>2013-01-13T17:30:00</AbfahrtszeitAZBPlan>
+      <AbfahrtszeitAZBPrognose>2013-01-13T17:30:00</AbfahrtszeitAZBPrognose>
+      <AnkunftszeitAZBPlan>2013-01-13T17:30:00</AnkunftszeitAZBPlan>
+      <AnkunftszeitAZBPrognose>2013-01-13T17:30:00</AnkunftszeitAZBPrognose>
+      <AZBID>100483</AZBID>
+      <FahrtID>
+        <Betriebstag>2013-01-13</Betriebstag>
+        <FahrtBezeichner>130113-10695147</FahrtBezeichner>
+      </FahrtID>
+      <FahrtStatus>Ist</FahrtStatus>
+      <HstSeqZaehler>18</HstSeqZaehler>
+      <LinienID>118</LinienID>
+      <LinienText>18</LinienText>
+      <RichtungsText>Burggasse, Stadthalle U</RichtungsText>
+      <Stauindikator>false</Stauindikator>
+      <ZielHst>Finsterbuschstraße, Gast</ZielHst>
+    </AZBFahrplanlage>
+    <AZBFahrplanlage Zst="2013-01-13T16:42:55">
+      <AbfahrtszeitAZBPlan>2013-01-13T17:32:30</AbfahrtszeitAZBPlan>
+      <AbfahrtszeitAZBPrognose>2013-01-13T17:32:30</AbfahrtszeitAZBPrognose>
+      <AnkunftszeitAZBPlan>2013-01-13T17:32:30</AnkunftszeitAZBPlan>
+      <AnkunftszeitAZBPrognose>2013-01-13T17:32:30</AnkunftszeitAZBPrognose>
+      <AZBID>100483</AZBID>
+      <FahrtID>
+        <Betriebstag>2013-01-13</Betriebstag>
+        <FahrtBezeichner>130113-10682583</FahrtBezeichner>
+      </FahrtID>
+      <FahrtInfo>
+        <FahrzeugID>614</FahrzeugID>
+        <ServiceMerkmal>geeignet für mobilitätseingeschränkte Fahrgäste</ServiceMerkmal>
+      </FahrtInfo>
+      <FahrtStatus>Ist</FahrtStatus>
+      <HstSeqZaehler>32</HstSeqZaehler>
+      <LinienID>106</LinienID>
+      <LinienText>6</LinienText>
+      <RichtungsText>Burggasse, Stadthalle U</RichtungsText>
+      <Stauindikator>false</Stauindikator>
+      <ZielHst>Feuerwache Am Steinhof</ZielHst>
+    </AZBFahrplanlage>
+    <AZBFahrplanlage Zst="2013-01-13T16:42:55">
+      <AbfahrtszeitAZBPlan>2013-01-13T17:37:30</AbfahrtszeitAZBPlan>
+      <AbfahrtszeitAZBPrognose>2013-01-13T17:37:30</AbfahrtszeitAZBPrognose>
+      <AnkunftszeitAZBPlan>2013-01-13T17:37:30</AnkunftszeitAZBPlan>
+      <AnkunftszeitAZBPrognose>2013-01-13T17:37:30</AnkunftszeitAZBPrognose>
+      <AZBID>100483</AZBID>
+      <FahrtID>
+        <Betriebstag>2013-01-13</Betriebstag>
+        <FahrtBezeichner>130113-10695139</FahrtBezeichner>
+      </FahrtID>
+      <FahrtStatus>Ist</FahrtStatus>
+      <HstSeqZaehler>18</HstSeqZaehler>
+      <LinienID>118</LinienID>
+      <LinienText>18</LinienText>
+      <RichtungsText>Burggasse, Stadthalle U</RichtungsText>
+      <Stauindikator>false</Stauindikator>
+      <ZielHst>Finsterbuschstraße, Gast</ZielHst>
+    </AZBFahrplanlage>
+    <AZBFahrplanlage Zst="2013-01-13T16:42:55">
+      <AbfahrtszeitAZBPlan>2013-01-13T17:40:00</AbfahrtszeitAZBPlan>
+      <AbfahrtszeitAZBPrognose>2013-01-13T17:40:00</AbfahrtszeitAZBPrognose>
+      <AnkunftszeitAZBPlan>2013-01-13T17:40:00</AnkunftszeitAZBPlan>
+      <AnkunftszeitAZBPrognose>2013-01-13T17:40:00</AnkunftszeitAZBPrognose>
+      <AZBID>100483</AZBID>
+      <FahrtID>
+        <Betriebstag>2013-01-13</Betriebstag>
+        <FahrtBezeichner>130113-10682581</FahrtBezeichner>
+      </FahrtID>
+      <FahrtStatus>Ist</FahrtStatus>
+      <HstSeqZaehler>32</HstSeqZaehler>
+      <LinienID>106</LinienID>
+      <LinienText>6</LinienText>
+      <RichtungsText>Burggasse, Stadthalle U</RichtungsText>
+      <Stauindikator>false</Stauindikator>
+      <ZielHst>Feuerwache Am Steinhof</ZielHst>
+    </AZBFahrplanlage>
+    <AZBFahrplanlage Zst="2013-01-13T16:42:55">
+      <AbfahrtszeitAZBPlan>2013-01-13T17:45:00</AbfahrtszeitAZBPlan>
+      <AbfahrtszeitAZBPrognose>2013-01-13T17:45:00</AbfahrtszeitAZBPrognose>
+      <AnkunftszeitAZBPlan>2013-01-13T17:45:00</AnkunftszeitAZBPlan>
+      <AnkunftszeitAZBPrognose>2013-01-13T17:45:00</AnkunftszeitAZBPrognose>
+      <AZBID>100483</AZBID>
+      <FahrtID>
+        <Betriebstag>2013-01-13</Betriebstag>
+        <FahrtBezeichner>130113-10695137</FahrtBezeichner>
+      </FahrtID>
+      <FahrtInfo>
+        <FahrzeugID>704</FahrzeugID>
+        <ServiceMerkmal>geeignet für mobilitätseingeschränkte Fahrgäste</ServiceMerkmal>
+      </FahrtInfo>
+      <FahrtStatus>Ist</FahrtStatus>
+      <HstSeqZaehler>18</HstSeqZaehler>
+      <LinienID>118</LinienID>
+      <LinienText>18</LinienText>
+      <RichtungsText>Burggasse, Stadthalle U</RichtungsText>
+      <Stauindikator>false</Stauindikator>
+      <ZielHst>Finsterbuschstraße, Gast</ZielHst>
+    </AZBFahrplanlage>
+    <AZBFahrplanlage Zst="2013-01-13T16:42:55">
+      <AbfahrtszeitAZBPlan>2013-01-13T17:47:30</AbfahrtszeitAZBPlan>
+      <AbfahrtszeitAZBPrognose>2013-01-13T17:47:30</AbfahrtszeitAZBPrognose>
+      <AnkunftszeitAZBPlan>2013-01-13T17:47:30</AnkunftszeitAZBPlan>
+      <AnkunftszeitAZBPrognose>2013-01-13T17:47:30</AnkunftszeitAZBPrognose>
+      <AZBID>100483</AZBID>
+      <FahrtID>
+        <Betriebstag>2013-01-13</Betriebstag>
+        <FahrtBezeichner>130113-10682578</FahrtBezeichner>
+      </FahrtID>
+      <FahrtInfo>
+        <FahrzeugID>612</FahrzeugID>
+        <ServiceMerkmal>geeignet für mobilitätseingeschränkte Fahrgäste</ServiceMerkmal>
+      </FahrtInfo>
+      <FahrtStatus>Ist</FahrtStatus>
+      <HstSeqZaehler>32</HstSeqZaehler>
+      <LinienID>106</LinienID>
+      <LinienText>6</LinienText>
+      <RichtungsText>Burggasse, Stadthalle U</RichtungsText>
+      <Stauindikator>false</Stauindikator>
+      <ZielHst>Feuerwache Am Steinhof</ZielHst>
+    </AZBFahrplanlage>
+    <AZBFahrplanlage Zst="2013-01-13T16:42:55">
+      <AbfahrtszeitAZBPlan>2013-01-13T17:52:30</AbfahrtszeitAZBPlan>
+      <AbfahrtszeitAZBPrognose>2013-01-13T17:52:30</AbfahrtszeitAZBPrognose>
+      <AnkunftszeitAZBPlan>2013-01-13T17:52:30</AnkunftszeitAZBPlan>
+      <AnkunftszeitAZBPrognose>2013-01-13T17:52:30</AnkunftszeitAZBPrognose>
+      <AZBID>100483</AZBID>
+      <FahrtID>
+        <Betriebstag>2013-01-13</Betriebstag>
+        <FahrtBezeichner>130113-10695134</FahrtBezeichner>
+      </FahrtID>
+      <FahrtInfo>
+        <FahrzeugID>646</FahrzeugID>
+        <ServiceMerkmal>geeignet für mobilitätseingeschränkte Fahrgäste</ServiceMerkmal>
+      </FahrtInfo>
+      <FahrtStatus>Ist</FahrtStatus>
+      <HstSeqZaehler>18</HstSeqZaehler>
+      <LinienID>118</LinienID>
+      <LinienText>18</LinienText>
+      <RichtungsText>Burggasse, Stadthalle U</RichtungsText>
+      <Stauindikator>false</Stauindikator>
+      <ZielHst>Finsterbuschstraße, Gast</ZielHst>
+    </AZBFahrplanlage>
+  </AZBNachricht>
+  <Bestaetigung Zst="2013-01-13T16:43:56" Ergebnis="ok"/>
+</ns2:DatenAbrufenAntwort>

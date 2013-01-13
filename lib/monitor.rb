@@ -13,13 +13,15 @@ class Monitor
   element :prognose, DateTime, :tag => 'AbfahrtszeitAZBPrognose'
   
   def self.get(stop)
-    uri = URI("http://ogd-createcamp-wienerlinien.at/webservice.ft/getMonitorXml?haltepunkt=#{stop}&sender=createcamp2")
-    puts uri
-    xml  = Net::HTTP::get(uri)
+    xml = getxml(stop)
+   # uri = URI("http://ogd-createcamp-wienerlinien.at/webservice.ft/getMonitorXml?haltepunkt=#{stop}&sender=createcamp2")
+   # puts uri
+   # xml  = Net::HTTP::get(uri)
     if xml.length>2 then 
-      file = File.new("lib/assets/getMonitor.#{stop}.xml","w")
-      file.write(xml)
-      file.close
+      # grabbing some data from the interce
+      #file = File.new("lib/assets/getMonitor.#{stop}.xml","w")
+      #file.write(xml)
+      #file.close
       monitor = Monitor.parse(xml)
       puts ="#{monitor[0].updated_at.strftime("%H:%M")}"
       monitor.each_with_index do |abfahrt,i|
@@ -31,9 +33,18 @@ class Monitor
   end
 end
 
+def getxml(stop)    
+  uri = URI("http://ogd-createcamp-wienerlinien.at/webservice.ft/getMonitorXml?haltepunkt=#{stop}&sender=createcamp2")
+  puts uri
+  #xml  = Net::HTTP::get(uri)  # if the inteface is up we can get it over the net
+  xml = File.read("lib/assets/getMonitor.#{stop}.xml")
+end
+
+
 stops = [4125,4202,483,842,848]
 stops.each do |stop|
   puts "====="
   Monitor.get(stop)
-end
+end 
+
     
