@@ -17,11 +17,13 @@ class Monitor
    # uri = URI("http://ogd-createcamp-wienerlinien.at/webservice.ft/getMonitorXml?haltepunkt=#{stop}&sender=createcamp2")
    # puts uri
    # xml  = Net::HTTP::get(uri)
-    if xml.length>2 then 
-      # grabbing some data from the interce
+    if xml.length>2 then  #actual data was returned, the XML interface somtimes returned an empty whatever
+      
+      # grabbing some data from the interface - while it was active
       #file = File.new("lib/assets/getMonitor.#{stop}.xml","w")
       #file.write(xml)
       #file.close
+
       monitor = Monitor.parse(xml)
       puts ="#{monitor[0].updated_at.strftime("%H:%M")}"
       monitor.each_with_index do |abfahrt,i|
@@ -36,7 +38,7 @@ end
 def getxml(stop)    
   uri = URI("http://ogd-createcamp-wienerlinien.at/webservice.ft/getMonitorXml?haltepunkt=#{stop}&sender=createcamp2")
   puts uri
-  #xml  = Net::HTTP::get(uri)  # if the inteface is up we can get it over the net
+  #xml  = Net::HTTP::get(uri)  # when the inteface is up we can get it over the internets, else we have to go to the files we grabbed
   xml = File.read("lib/assets/getMonitor.#{stop}.xml")
 end
 
